@@ -27,7 +27,7 @@ Supports all i18n of timeago.js
 - Install
 
 ```bash
-go get github.com/sersh/timeago
+go get github.com/sersh88/timeago
 ```
 - Usage
 
